@@ -1,0 +1,27 @@
+id: I54B834C4
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-21T17:22:18+00:00'
+last_modified: '2022-06-07T13:57:10.780323+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W30431
+  title: བྱ་ཚིག་ཀུན་གསལ་མེ་ལོང
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  base:
+    '0570':
+      image_group_id: I1PD30289
+      title: ''
+      total_pages: 530
+      order: 1
+      base_file: 0570.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
